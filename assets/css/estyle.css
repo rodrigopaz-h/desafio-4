@@ -1,0 +1,76 @@
+*{
+    font-family: "Roboto", light;
+}
+
+.navbar{
+    background-color: #28a745;
+}
+
+
+.navbar-nav a{
+    font-weight: 300; 
+    color: #ffffff;   
+}
+
+h5{
+    font-weight: 500;
+    color: #212529;
+}
+
+small{
+    font-weight: 300;
+}
+
+strong{
+    font-weight: 500;
+}
+
+.text-end strong{
+    color: #28a745
+}
+
+p{
+    font-weight: 300;
+    color: #707070;
+}
+
+.text-nowrap strong{
+    font-weight: 500; 
+    color: #ffffff;
+}
+
+.placeholder{
+    font-weight: 300;
+}
+
+
+.fot{
+    font-weight: 300;
+
+}
+
+
+.color-fondo {
+    background-color:#28a745;
+  }
+  .form-control {
+    font-weight: 300;
+    margin-bottom: 14px;
+  }
+  .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 5px;
+  }
+  .card {
+    margin-bottom: 2.5rem;
+  }
+  footer {
+    color: #707070;
+    background-color: var(--white);
+  }
+  p.fot {
+    font-size: 16px;
+    padding-bottom: 22px;
+  }
+  
